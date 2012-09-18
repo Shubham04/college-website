@@ -7,10 +7,10 @@
 ##MongoDB
   MongoDB is a object store , why Objects stored and no database ?
   > 1.Cause its fast.
-  > 2.Cause its robust.
-  > 3.Cause its Efficient
-  > 4.Cause it rocks!
-  > 5.Cause it makes stuff work like a bause.
+    2.Cause its robust.
+    3.Cause its Efficient
+    4.Cause it rocks!
+    5.Cause it makes stuff work like a bause.
 
 ##Uses Express.js && mongo-db-native && socket.io
  
