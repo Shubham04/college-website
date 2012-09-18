@@ -5,7 +5,8 @@
   Node.js is a powerful asynchronous server written by Ryan Dahl its damn too powerful and i love it and you should , if u dont understand proper javascript please bugger off and dont break my code ..!.
 
 ##MongoDB
-  MongoDB is a object store , why Objects stored and no database ?
+  MongoDB is a object store , why Objects stored and no relational database ?
+
     1.Cause its fast.
  
     2.Cause its robust.
